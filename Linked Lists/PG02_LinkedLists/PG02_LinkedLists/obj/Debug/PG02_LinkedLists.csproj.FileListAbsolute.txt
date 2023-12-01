@@ -1,0 +1,14 @@
+C:\Courses\PG2_Girod_V3\Labs\CURRENT\Campus\Lab 4 LinkedLists\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.dll.config
+C:\Courses\PG2_Girod_V3\Labs\CURRENT\Campus\Lab 4 LinkedLists\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.dll
+C:\Courses\PG2_Girod_V3\Labs\CURRENT\Campus\Lab 4 LinkedLists\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.pdb
+C:\Courses\PG2_Girod_V3\Labs\CURRENT\Campus\Lab 4 LinkedLists\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.csprojAssemblyReference.cache
+C:\Courses\PG2_Girod_V3\Labs\CURRENT\Campus\Lab 4 LinkedLists\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.csproj.CoreCompileInputs.cache
+C:\Courses\PG2_Girod_V3\Labs\CURRENT\Campus\Lab 4 LinkedLists\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.dll
+C:\Courses\PG2_Girod_V3\Labs\CURRENT\Campus\Lab 4 LinkedLists\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.pdb
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.dll.config
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.dll
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists\bin\Debug\PG02_LinkedLists.pdb
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.csprojAssemblyReference.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.dll
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists\obj\Debug\PG02_LinkedLists.pdb

@@ -1,0 +1,17 @@
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists_Tests\bin\Debug\PG02_LinkedLists_Tests.dll
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists_Tests\bin\Debug\PG02_LinkedLists_Tests.pdb
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists_Tests\bin\Debug\PG02_LinkedLists.dll
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists_Tests\bin\Debug\PG02_LinkedLists.pdb
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists_Tests\bin\Debug\PG02_LinkedLists.dll.config
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists_Tests\obj\Debug\PG02_LinkedLists_Tests.csprojAssemblyReference.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists_Tests\obj\Debug\PG02_LinkedLists_Tests.csproj.CoreCompileInputs.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists_Tests\obj\Debug\PG02_LinkedLists_Tests.csproj.CopyComplete
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists_Tests\obj\Debug\PG02_LinkedLists_Tests.dll
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Linked Lists\PG02_LinkedLists\PG02_LinkedLists_Tests\obj\Debug\PG02_LinkedLists_Tests.pdb

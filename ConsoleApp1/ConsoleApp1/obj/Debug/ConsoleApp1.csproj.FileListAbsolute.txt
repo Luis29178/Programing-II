@@ -1,0 +1,7 @@
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

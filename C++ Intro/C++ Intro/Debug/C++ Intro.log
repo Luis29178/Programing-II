@@ -1,0 +1,7 @@
+﻿  C++ Intro.cpp
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\C++ Intro\C++ Intro\C++ Intro.cpp(62,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\C++ Intro\C++ Intro\C++ Intro.cpp(102,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\C++ Intro\C++ Intro\C++ Intro.cpp(114,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\C++ Intro\C++ Intro\C++ Intro.cpp(155,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\C++ Intro\C++ Intro\C++ Intro.cpp(231,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  C++ Intro.vcxproj -> C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\C++ Intro\Debug\C++ Intro.exe

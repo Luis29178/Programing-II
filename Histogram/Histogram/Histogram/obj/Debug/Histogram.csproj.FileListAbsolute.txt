@@ -1,0 +1,11 @@
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Histogram\Histogram\Histogram\bin\Debug\Histogram.exe.config
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Histogram\Histogram\Histogram\bin\Debug\Histogram.exe
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Histogram\Histogram\Histogram\bin\Debug\Histogram.pdb
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Histogram\Histogram\Histogram\obj\Debug\Histogram.csprojAssemblyReference.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Histogram\Histogram\Histogram\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Histogram\Histogram\Histogram\obj\Debug\Histogram.exe
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Histogram\Histogram\Histogram\obj\Debug\Histogram.pdb
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Histogram\Histogram\Histogram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Histogram\Histogram\Histogram\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Histogram\Histogram\Histogram\obj\Debug\Histogram.csproj.CopyComplete
+C:\Users\luis2\OneDrive - Full Sail University\Visual Studios\PG2\Labs\Histogram\Histogram\Histogram\bin\Debug\speech.csv
